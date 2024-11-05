@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+I teach bioinformatics at University of Rennes, France.
+I'm very found of Python programming and have interests in Julia also.
+
+I always try to find new way of teaching in an active learning approach.
+
 <!--
 **gcollet/gcollet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
